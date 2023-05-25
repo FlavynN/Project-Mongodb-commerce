@@ -8,7 +8,7 @@
 Mongodb
 
 
-## What was build?
+## What was built?
 
 Queries on Mongo database.
 
